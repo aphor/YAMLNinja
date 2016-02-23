@@ -1,0 +1,7 @@
+{
+  "venv": "", 
+  "project-type": "NINJA-Plugin-Project", 
+  "name": "YAMLNinja", 
+  "license": "Mozilla Public License 2.0", 
+  "description": "YAML support for Ninja-IDE"
+}
